@@ -3,8 +3,9 @@
 ## Web developer
 # 💫 About Me:
 I’m a web developer focused on building responsive and user-friendly web applications. Currently working with React, I enjoy turning ideas into interactive, efficient front-end solutions while continuously learning and improving my skills.
-# - Skilled in creating responsive, user-friendly interfaces and RESTful APIs
-  - Currently building an eCommerce website using React, Node.js, and MongoDB
+# 
+- Skilled in creating responsive, user-friendly interfaces and RESTful APIs
+- Currently building an eCommerce website using React, Node.js, and MongoDB
 
 
 
